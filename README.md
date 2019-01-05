@@ -1,6 +1,6 @@
 # Voting Bot
 
-This is the basic voting bot I coded once for fun. I am sharing it in case some code is useful for somebody.
+This is a simple voting bot I coded once for fun. I am sharing it in case some code is useful for somebody.
 
 Its main characteristics are:
 
